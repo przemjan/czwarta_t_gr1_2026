@@ -31,7 +31,7 @@ public class Zmienne {
 
 
 
-        // https://github.com/przemjan/trzecia_p_2026_java_gr_2.git
+        // https://github.com/przemjan/czwarta_t_gr1_2026.git
 
     }
 }
